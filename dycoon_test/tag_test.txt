@@ -13,3 +13,10 @@ git tag v0.3
 
 tag test v0.4
 git tag v0.4
+
+
+
+rebase test v0.3 -> v0.4
+
+
+
